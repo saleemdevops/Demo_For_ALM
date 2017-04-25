@@ -5,6 +5,5 @@
 <h1>Hello Bhai bhai!</h1>
 <h2>Hello Bhai bhai!</h2>
 <h2>Hello Bhai bhai!</h2>
-<h2>Hello Bhai bhai!</h2>
 </body>
 </html>
